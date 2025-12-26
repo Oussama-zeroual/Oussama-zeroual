@@ -1,7 +1,7 @@
 # Hey everyone , Oussama here 👋
 
 🎓 Applied Mathematics student  
-📊 Modeling & Simulation | Data Analysis | AI/ML  
+📊 Modeling & Simulation | Data Analysis | AI/ML/DL
 💻 Python • Numerical Computing • Scientific Programming  
 
 ## 🔬 Interests
