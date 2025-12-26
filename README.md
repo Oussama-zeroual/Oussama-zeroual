@@ -23,5 +23,5 @@
 
 📫 **Contact**
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: linkedin.com/in/oussama-zeroual-9a54a928a
+- LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BZE12YjjTTFGOZWFI76rKAQ%3D%3D
 - telegram: @Samzeroual
