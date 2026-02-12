@@ -1,8 +1,11 @@
-# Hey everyone 👋, I'm Oussama Zeroual
+# Hey everyone , I'm Oussama Zeroual 
 
-🎓 Applied Mathematics student  
-📊 Modeling & Simulation | Data Analysis | AI/ML/DL  
-💻 Python • Numerical Computing • Scientific Programming  
+- Applied Mathematics student  
+- Modeling & Simulation:
+  - Image Analysis
+  - Fluid mechanics
+  - Biomathematics
+  - Machine Learning and Scientific Computing 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeroual-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Telegram](https://img.shields.io/badge/Telegram-@Samzeroual-blue?logo=telegram)](https://t.me/Samzeroual)
@@ -10,14 +13,6 @@
 
 ---
 
-## 🔬 Interests
-
-- Mathematical modeling of complex systems  
-- Simulation & optimization  
-- Machine learning and data-driven modeling  
-
-
----
 
 ## 🛠️ Technical Skills
 | Category | Skills & Tools |
@@ -25,11 +20,10 @@
 | **Languages** | Python, MATLAB |
 | **Libraries** | NumPy, SciPy, Pandas, Matplotlib, scikit-learn |
 | **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
-| **Math** | ODEs, PDEs, Statistics, Linear Algebra |
 
 ---
 
-## 📌 Contact Me
+##  Contact Me
 
 - **Phone:** +213655655719  
 - **GitHub:** [ZeroualOussama](https://github.com/ZeroualOussama)  
