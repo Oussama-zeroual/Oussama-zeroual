@@ -3,9 +3,9 @@
 - Applied Mathematics student  
 - Modeling & Simulation:
   - Image Analysis
-  - Fluid mechanics
+  - Fluid Dynamics and petrophysics 
   - Biomathematics
-  - Machine Learning and Scientific Computing 
+  - AI and Scientific computing 
 
 ---
 
