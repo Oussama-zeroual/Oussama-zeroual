@@ -1,22 +1,41 @@
-# Hey everyone , I'm Oussama Zeroual 
+# 
+Here is a clean and professional version for your GitHub README (without emojis):
 
-- Applied Mathematics student  
-- Modeling & Simulation:
-  - Image Analysis
-  - Fluid Dynamics and petrophysics 
-  - Biomathematics
-  - AI and Scientific computing 
 
 ---
 
+Oussama Zeroual
 
-## 🛠️ Technical Skills
-|‐-------------------------------|
-| **Languages** | Python, MATLAB |
-| **Libraries** | Numpy, Scipy, Pandas, Matplotlib, scikit-learn , tensorflow , pytorch |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebook , Simulink|
+Applied Mathematics student specializing in Modeling and Simulation.
+
+Areas of Interest
+
+Image Analysis
+
+Fluid Dynamics and Petrophysics
+
+Biomathematics
+
+Artificial Intelligence
+
+Scientific Computing
+
+
 
 ---
+
+Technical Skills
+
+Category	Skills
+
+Languages	Python, MATLAB
+Libraries	NumPy, SciPy, Pandas, Matplotlib, scikit-learn, TensorFlow, PyTorch
+Tools	Git, GitHub, VS Code, Jupyter Notebook, Simulink
+
+
+
+---
+
 
 ##  Contact Me
 
