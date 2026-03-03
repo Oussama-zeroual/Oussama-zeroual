@@ -11,8 +11,6 @@
 
 
 ## 🛠️ Technical Skills
-| Category | Skills & Tools |
-|----------|----------------|
 | **Languages** | Python, MATLAB |
 | **Libraries** | Numpy, Scipy, Pandas, Matplotlib, scikit-learn , tensorflow , pytorch |
 | **Tools** | Git, GitHub, VS Code, Jupyter Notebook , Simulink|
