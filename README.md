@@ -14,8 +14,8 @@
 | Category | Skills & Tools |
 |----------|----------------|
 | **Languages** | Python, MATLAB |
-| **Libraries** | NumPy, SciPy, Pandas, Matplotlib, scikit-learn |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
+| **Libraries** | Numpy, Scipy, Pandas, Matplotlib, scikit-learn , tensorflow , pytorch |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook , Simulink|
 
 ---
 
