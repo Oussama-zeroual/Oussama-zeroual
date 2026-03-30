@@ -1,62 +1,67 @@
-# Oussama Zeroual
+<div align="center">
 
-Applied Mathematics student with a focus on Modeling and Simulation.  
-Interested in mathematical modeling, numerical methods, and AI-driven scientific applications.
+# 👨‍💻 Oussama Zeroual
 
----
+**Applied Mathematics Student** | *Modeling & Simulation Focus*
 
-## Fields of Interest
-
-- Image Analysis  
-- Fluid Dynamics and Petrophysics  
-- Biomathematics  
-- Artificial Intelligence  
-- Scientific Computing  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-zeroual05)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samzeroual)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroualOussama)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeroualoussama05@gmail.com)
 
 ---
 
-## Technical Skills
+</div>
 
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Tools</th>
-    <th>Libraries</th>
-  </tr>
-  <tr>
-    <td>
-      • Python<br>
-      • MATLAB
-      • R
-      
-    </td>
-    <td>
-      • Git<br>
-      • GitHub<br>
-      • VS Code<br>
-      • Jupyter Notebook<br>
-      • Simulink
-    </td>
-    <td>
-      • NumPy<br>
-      • SciPy<br>
-      • Pandas<br>
-      • Matplotlib<br>
-      • scikit-learn<br>
-      • TensorFlow<br>
-      • PyTorch
-    </td>
-  </tr>
-</table>
+## 📌 About Me
+
+I'm an Applied Mathematics student passionate about bridging theoretical mathematics with real-world applications. My work focuses on **mathematical modeling**, **numerical simulations**, and **AI-driven scientific solutions**.
 
 ---
 
-## Contact Me
+## 🔬 Fields of Interest
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeroual-blue?logo=linkedin)](https://www.linkedin.com/in/oussama-zeroual05?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaVOG3gw9QDK2X9PlCfTRpg%3D%3D)
-[![Telegram](https://img.shields.io/badge/Telegram-@Samzeroual-blue?logo=telegram)](https://t.me/Samzeroual)
-[![GitHub](https://img.shields.io/badge/GitHub-ZeroualOussama-black?logo=github)](https://github.com/ZeroualOussama)
+<div align="center">
+
+| 🖼️ Image Analysis | 🌊 Fluid Dynamics & Petrophysics | 🧬 Biomathematics |
+|:----------------:|:-------------------------------:|:----------------:|
+| 🤖 Artificial Intelligence | 💻 Scientific Computing | |
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+| **💻 Languages** | **📚 Libraries** | **🔧 Tools** |
+|:---------------:|:----------------:|:-----------:|
+| • Python<br>• MATLAB | • NumPy<br>• SciPy<br>• Pandas<br>• Matplotlib<br>• scikit-learn<br>• TensorFlow<br>• PyTorch | • Git<br>• GitHub<br>• VS Code<br>• Jupyter Notebook<br>• Simulink |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroualOussama&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroualOussama&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150">
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+I'm always open to discussing research collaborations, exciting projects, or just having a chat about mathematics and AI.
 
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/ZeroualOussama/count.svg)
+
+**✨ Thanks for stopping by! ✨**
+
+</div>
