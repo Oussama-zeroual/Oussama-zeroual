@@ -33,7 +33,7 @@ I'm an Applied Mathematics student passionate about bridging theoretical mathema
 
 <div align="center">
 
-| **💻 Languages** | **📚 Libraries** | **🔧 Tools** |
+| ** Languages** | ** Libraries** | ** Tools** |
 |:---------------:|:----------------:|:-----------:|
 | • Python<br>• MATLAB | • NumPy<br>• SciPy<br>• Pandas<br>• Matplotlib<br>• scikit-learn<br>• TensorFlow<br>• PyTorch | • Git<br>• GitHub<br>• VS Code<br>• Jupyter Notebook<br>• Simulink |
 
@@ -41,14 +41,7 @@ I'm an Applied Mathematics student passionate about bridging theoretical mathema
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroualOussama&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroualOussama&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150">
-</div>
-
----
 
 <div align="center">
 
