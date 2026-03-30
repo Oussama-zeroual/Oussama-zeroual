@@ -1,19 +1,19 @@
 <div align="center">
 
-# 👨‍💻 Oussama Zeroual
+#  Oussama Zeroual
 
 **Applied Mathematics Student** | *Modeling & Simulation Focus*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-zeroual05)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samzeroual)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroualOussama)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeroualoussama05@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamazeroual1000@gmail.com)
 
 ---
 
 </div>
 
-## 📌 About Me
+##  About Me
 
 I'm an Applied Mathematics student passionate about bridging theoretical mathematics with real-world applications. My work focuses on **mathematical modeling**, **numerical simulations**, and **AI-driven scientific solutions**.
 
@@ -21,13 +21,11 @@ I'm an Applied Mathematics student passionate about bridging theoretical mathema
 
 ## 🔬 Fields of Interest
 
-<div align="center">
-
-| 🖼️ Image Analysis | 🌊 Fluid Dynamics & Petrophysics | 🧬 Biomathematics |
-|:----------------:|:-------------------------------:|:----------------:|
-| 🤖 Artificial Intelligence | 💻 Scientific Computing | |
-
-</div>
+•  Image Analysis
+•  Fluid Dynamics & Petrophysics
+•  Biomathematics
+•  Artificial Intelligence
+•  Scientific Computing
 
 ---
 
