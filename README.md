@@ -33,7 +33,7 @@ I'm an Applied Mathematics student passionate about bridging theoretical mathema
 
 <div align="center">
 
-| ** Languages** | ** Libraries** | ** Tools** |
+|  Languages | Libraries |  Tools |
 |:---------------:|:----------------:|:-----------:|
 | • Python<br>• MATLAB | • NumPy<br>• SciPy<br>• Pandas<br>• Matplotlib<br>• scikit-learn<br>• TensorFlow<br>• PyTorch | • Git<br>• GitHub<br>• VS Code<br>• Jupyter Notebook<br>• Simulink |
 
