@@ -17,29 +17,35 @@ Interested in mathematical modeling, numerical methods, and AI-driven scientific
 
 ## Technical Skills
 
-<div align="center">
-
-### Languages
-- Python  
-- MATLAB  
-
-### Libraries
-- NumPy  
-- SciPy  
-- Pandas  
-- Matplotlib  
-- scikit-learn  
-- TensorFlow  
-- PyTorch  
-
-### Tools
-- Git  
-- GitHub  
-- VS Code  
-- Jupyter Notebook  
-- Simulink
-
-</div>
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Tools</th>
+    <th>Libraries</th>
+  </tr>
+  <tr>
+    <td>
+      • Python<br>
+      • MATLAB
+    </td>
+    <td>
+      • Git<br>
+      • GitHub<br>
+      • VS Code<br>
+      • Jupyter Notebook<br>
+      • Simulink
+    </td>
+    <td>
+      • NumPy<br>
+      • SciPy<br>
+      • Pandas<br>
+      • Matplotlib<br>
+      • scikit-learn<br>
+      • TensorFlow<br>
+      • PyTorch
+    </td>
+  </tr>
+</table>
 
 ---
 
