@@ -51,7 +51,6 @@ I'm always open to discussing research collaborations, exciting projects, or jus
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/ZeroualOussama/count.svg)
 
 **✨ Thanks for stopping by! ✨**
 
