@@ -27,6 +27,8 @@ Interested in mathematical modeling, numerical methods, and AI-driven scientific
     <td>
       • Python<br>
       • MATLAB
+      • R
+      
     </td>
     <td>
       • Git<br>
