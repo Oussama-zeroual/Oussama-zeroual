@@ -18,14 +18,15 @@
 I'm an Applied Mathematics student passionate about bridging theoretical mathematics with real-world applications. My work focuses on **mathematical modeling**, **numerical simulations**, and **AI-driven scientific solutions**.
 
 ---
+<h2 align="center">🔬 Fields of Interest</h2>
 
-## 🔬 Fields of Interest
-
-•  Image Analysis
-•  Fluid Dynamics & Petrophysics
-•  Biomathematics
-•  Artificial Intelligence
-•  Scientific Computing
+<p align="center">
+• Image Analysis <br>
+• Fluid Dynamics & Petrophysics <br>
+• Biomathematics <br>
+• Artificial Intelligence <br>
+• Scientific Computing
+</p>
 
 ---
 
