@@ -15,7 +15,7 @@
 
 ##  About Me
 
-I'm an Applied Mathematics student passionate about bridging theoretical mathematics with real-world applications. My work focuses on **mathematical modeling**, **numerical simulations**, and **AI-driven scientific solutions**.
+I'm an Applied Mathematics student passionate about the link between theoretical mathematics with real-world applications. My work focuses on **mathematical modeling**, **numerical simulations**, and **AI-driven scientific solutions**.
 
 ---
 <h2 align="center">🔬 Fields of Interest</h2>
@@ -25,7 +25,7 @@ I'm an Applied Mathematics student passionate about bridging theoretical mathema
 • Fluid Dynamics & Petrophysics <br>
 • Biomathematics <br>
 • Artificial Intelligence <br>
-• Scientific Computing
+• Control Theory <br> 
 </p>
 
 ---
