@@ -10,14 +10,14 @@
 
 ---
 
-</div>
+<div align="center"> 
 
 ##  About Me
 
 I'm an Applied Mathematics student with a  focuse on **mathematical modeling**, **numerical simulations**, and **AI-driven scientific solutions**.
 
 ---
-<h2 align="center">🔬 Fields of Interest</h2>
+<h2 align="center"> Fields of Interest</h2>
 
 <p align="center">
 • Image Analysis <br>
@@ -52,6 +52,6 @@ I'm always open to discussing research collaborations, exciting projects, or any
 ---
 
 
-**Thanks for stopping by! ^__^**
+**Thanks for stopping by ^__^**
 
 </div>
