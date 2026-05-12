@@ -2,7 +2,7 @@
 
 #  Oussama Zeroual
 
-**Applied Mathematics Student** | *Modeling & Simulation Focus*
+**Applied Mathematics Student** | *Modeling & Simulation*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-zeroual05)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samzeroual)
