@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-zeroual05)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samzeroual)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroualOussama)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamazeroual1000@gmail.com)
 
 ---
@@ -15,7 +14,7 @@
 
 ##  About Me
 
-I'm an Applied Mathematics student passionate about the link between theoretical mathematics with real-world applications. My work focuses on **mathematical modeling**, **numerical simulations**, and **AI-driven scientific solutions**.
+I'm an Applied Mathematics student with a  focuse on **mathematical modeling**, **numerical simulations**, and **AI-driven scientific solutions**.
 
 ---
 <h2 align="center">🔬 Fields of Interest</h2>
@@ -46,13 +45,13 @@ I'm an Applied Mathematics student passionate about the link between theoretical
 
 <div align="center">
 
-### 📫 Let's Connect!
+### Let's Connect!
 
-I'm always open to discussing research collaborations, exciting projects, or just having a chat about mathematics and AI.
+I'm always open to discussing research collaborations, exciting projects, or anything else about professional subje.
 
 ---
 
 
-**✨ Thanks for stopping by! ✨**
+**Thanks for stopping by! ^__^**
 
 </div>
