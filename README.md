@@ -29,7 +29,7 @@ I'm an Applied Mathematics student with a  focuse on **mathematical modeling**, 
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
