@@ -47,11 +47,11 @@ I'm an Applied Mathematics student with a  focuse on **mathematical modeling**, 
 
 ### Let's Connect!
 
-I'm always open to discussing research collaborations, exciting projects, or anything else about professional subje.
+I'm always open to discussing research collaborations, exciting projects, or anything else about professional subjets.
 
 ---
 
 
-**Thanks for stopping by ^__^**
+**Thanks for stopping by !**
 
 </div>
