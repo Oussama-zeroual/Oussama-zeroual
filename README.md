@@ -19,12 +19,12 @@ I'm an Applied Mathematics student with a  focuse on **mathematical modeling**, 
 ---
 <h2 align="center"> Fields of Interest</h2>
 
-<p align="center">
-• Image Analysis <br>
-• Fluid Dynamics & Petrophysics <br>
-• Biomathematics <br>
-• Artificial Intelligence <br>
-• Control Theory <br> 
+</p>
+• Image Analysis 
+• Fluid Dynamics & Petrophysics 
+• Biomathematics 
+• Artificial Intelligence
+• Control Theory 
 </p>
 
 ---
